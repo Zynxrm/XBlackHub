@@ -3,7 +3,6 @@ return(function(...)local Z={"\110\072\051\102\056\070\103\043\083\081\110\069";
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
-
 local screenGui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
 screenGui.Name = "FakeAgeChanger"
 screenGui.ResetOnSpawn = false
