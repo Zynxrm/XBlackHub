@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/VR3J4Pp2DpIzw1N5/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/lFPOGFEc/raw"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zynxrm/EggRandomizerLua/refs/heads/main/UlolDiMotoMananakaw"))()
